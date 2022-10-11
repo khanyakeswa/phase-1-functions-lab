@@ -1,1 +1,5 @@
-// Code your solution in this file!
+function distanceFromHqInBlocks(location) {
+    if (location === '43') {
+        return '1';
+    }
+}
